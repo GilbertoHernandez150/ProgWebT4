@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProgWebT4.props" />
+</Project>
